@@ -1,0 +1,5 @@
+MODE=Debug
+Error logging=true
+Feature flags=true
+Rate limiting=false
+Verbose output=true
